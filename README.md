@@ -1,0 +1,1 @@
+This is a re-implementation of https://en.algorithmica.org/hpc/algorithms/matmul/ in C++. It's usually 3-5x faster than naive matrix multiplication. (not 50x as in the original article, normally the naive algorithm runs much faster (especially with `-ffast-math`)).
